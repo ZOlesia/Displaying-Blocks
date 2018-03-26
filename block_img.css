@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    width: 600px;
+    background: #d5d2ae;
+    margin: 0 auto;
+
+}
+#header{
+    width: 500px;
+    margin: 0px auto;
+}
+#header h1{
+    display: inline-block;
+}
+#header img{
+    width: 90px;
+    height: 65px;
+    display: inline-block;
+}
+
+#content{
+    width: 540px;
+    margin: -40px 35px 35px 35px;
+    display: inline-block;
+}
+
+.white{
+    width: 130px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.white img{
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    border: 8px solid #82b4ee;
+    outline: 2px solid black;
+
+}
+
+.pink{
+    width: 130px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.pink img{
+    width: 112.5px;
+    height: 112.5px;
+    margin: 5px;
+    background: #f36870;
+    border: 2px solid black;
+
+}
